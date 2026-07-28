@@ -58,8 +58,8 @@ Para cada capítulo, antes de pasar al siguiente:
 
 - [ ] Capítulo 05: executor mínimo de una tarea.
   - [x] #17 Especificar cola de tareas, invariante y alternativas.
-  - [ ] #18 Implementar y probar ejecución de una tarea.
-  - [ ] #19 Escribir capítulo, diagrama, ejemplos y ejercicios.
+  - [x] #18 Implementar y probar ejecución de una tarea.
+  - [x] #19 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 06: tasks, cola de ejecución y concurrencia cooperativa.
 
 ### Milestone 3: Runtime de producción y coordinación
