@@ -73,8 +73,8 @@ Para cada capítulo, antes de pasar al siguiente:
   - [x] #25 Escribir capítulo, comparativas, ejemplos y ejercicios.
 - [ ] Capítulo 08: `select!`, cancelación y timeouts.
   - [x] #26 Especificar garantías y alternativas.
-  - [ ] #27 Implementar y probar modelos deterministas.
-  - [ ] #28 Escribir capítulo, diagrama, ejemplos y ejercicios.
+  - [x] #27 Implementar y probar modelos deterministas.
+  - [x] #28 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 09: canales y sincronización asíncrona.
 
 ### Milestone 4: Composición avanzada
