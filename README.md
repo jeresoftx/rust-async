@@ -34,7 +34,7 @@ RFC-0001 §10.
 | 07 | Tokio y runtime de producción | planned |
 | 08 | select!, cancelación y timeouts | planned |
 | 09 | Canales y sincronización asíncrona | draft |
-| 10 | Modelo de actores | planned |
+| 10 | Modelo de actores | draft |
 
 Estados posibles: `planned`, `draft`, `implemented`, `tested`, `benchmarked`,
 `reviewed`, `published`.
