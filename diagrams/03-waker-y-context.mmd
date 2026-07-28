@@ -1,0 +1,7 @@
+sequenceDiagram
+    participant F as Future
+    participant W as Waker
+    participant E as Executor
+    F->>W: wake()
+    W->>E: solicitar re-sondeo
+    E->>F: poll()
