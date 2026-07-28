@@ -6,9 +6,10 @@ por terminar (RFC-0001 §1).
 
 ## Estado Actual
 
-El curso está en fundación. El siguiente paso es terminar su identidad, plan,
-crate mínimo y controles de calidad; luego cada capítulo avanza de forma
-secuencial con trazabilidad en GitHub.
+La fundación está completa: identidad, crate mínimo, controles de calidad,
+plan versionado, milestones, issues y Project ya existen. El siguiente paso
+natural es el issue #5, que especifica la transición de espera bloqueante a
+trabajo cooperativo antes de implementar su modelo educativo.
 
 El checklist detallado vive en
 [`docs/superpowers/plans/2026-07-28-rust-async-course.md`](docs/superpowers/plans/2026-07-28-rust-async-course.md).

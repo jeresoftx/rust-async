@@ -15,9 +15,9 @@ alcance hasta que exista una decisión humana explícita.
 
 ## Fundación
 
-- [ ] Establecer identidad, estructura, licencias, crate mínimo y CI.
-- [ ] Crear GitHub Project, milestones e issues antes de tocar capítulos.
-- [ ] Confirmar que la vista principal del Project esté agrupada por `Milestone`.
+- [x] Establecer identidad, estructura, licencias, crate mínimo y CI.
+- [x] Crear el [GitHub Project #18](https://github.com/users/jeresoftx/projects/18), milestones e issues antes de tocar capítulos.
+- [x] Confirmar que la vista principal del Project esté agrupada por `Milestone`.
 
 ## Regla De Producción Por Capítulo
 
