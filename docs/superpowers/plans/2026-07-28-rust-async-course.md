@@ -38,6 +38,9 @@ Para cada capítulo, antes de pasar al siguiente:
 ### Milestone 1: Fundamentos del protocolo asíncrono
 
 - [ ] Capítulo 01: de espera bloqueante a trabajo cooperativo.
+  - [x] #5 Especificar concepto, problema, invariantes y alternativas.
+  - [ ] #6 Implementar y probar un modelo mínimo de progreso cooperativo.
+  - [ ] #7 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 02: `Future` y `Poll`.
 - [ ] Capítulo 03: `Waker` y `Context`.
 - [ ] Capítulo 04: `Pin` y datos auto-referenciales.
