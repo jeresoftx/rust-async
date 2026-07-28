@@ -1,0 +1,6 @@
+flowchart LR
+    A[Clientes] --> M[Buzón acotado]
+    M --> T[Task actor]
+    T --> S[Estado privado]
+    T --> R[Respuesta oneshot]
+    M --> B[Backpressure]

@@ -6,11 +6,10 @@ por terminar (RFC-0001 §1).
 
 ## Estado Actual
 
-La fundación y los capítulos 01–08 están implementados en modo `draft`. El
-capítulo 09 cuenta con diseño y modelo de canales; su material educativo se
-mantiene como borrador hasta la revisión humana. El siguiente paso natural es
-el issue #34, que especifica propiedad, mensajes, fallas y alternativas para
-el modelo de actores.
+La fundación y los capítulos 01–10 están implementados en modo `draft`. El
+material educativo se mantiene como borrador hasta la revisión humana. El
+siguiente paso natural es el issue #40, para completar glosario, ruta de
+lectura y referencias cruzadas antes de la revisión transversal del curso.
 
 El checklist detallado vive en
 [`docs/superpowers/plans/2026-07-28-rust-async-course.md`](docs/superpowers/plans/2026-07-28-rust-async-course.md).
@@ -32,7 +31,7 @@ los issues accionables y debe mantener su vista principal agrupada por
 | 07 | Tokio y runtime de producción | planned |
 | 08 | select!, cancelación y timeouts | planned |
 | 09 | Canales y sincronización asíncrona | draft |
-| 10 | Modelo de actores | planned |
+| 10 | Modelo de actores | draft |
 
 ## Alineación RFC-0001
 
