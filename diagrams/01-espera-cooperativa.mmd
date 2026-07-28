@@ -1,0 +1,5 @@
+stateDiagram-v2
+    [*] --> Pending
+    Pending --> Pending: poll sin notify
+    Pending --> Ready: notify y poll
+    Ready --> Ready: poll posterior
