@@ -8,6 +8,7 @@
 
 pub mod cooperative;
 pub mod educational_future;
+pub mod educational_waker;
 
 pub use std::future::Future;
 pub use std::task::Poll;
