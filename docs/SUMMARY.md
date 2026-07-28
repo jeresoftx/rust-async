@@ -1,5 +1,6 @@
 # Summary
 
+- [Ruta de lectura](./ruta-de-lectura.md)
 - [De espera bloqueante a trabajo cooperativo](./01-espera-bloqueante-y-cooperacion.md)
 - [Future y Poll](./02-future-y-poll.md)
 - [Waker y Context](./03-waker-y-context.md)
@@ -10,3 +11,4 @@
 - [select!, cancelación y timeouts](./08-select-cancelacion-y-timeouts.md)
 - [Canales y sincronización asíncrona](./09-canales-y-sincronizacion-asincrona.md)
 - [Modelo de actores](./10-modelo-de-actores.md)
+- [Glosario](./glosario.md)

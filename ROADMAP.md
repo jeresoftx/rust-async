@@ -6,10 +6,10 @@ por terminar (RFC-0001 §1).
 
 ## Estado Actual
 
-La fundación y los capítulos 01–10 están implementados en modo `draft`. El
-material educativo se mantiene como borrador hasta la revisión humana. El
-siguiente paso natural es el issue #40, para completar glosario, ruta de
-lectura y referencias cruzadas antes de la revisión transversal del curso.
+La fundación, los capítulos 01–10 y el cierre editorial están implementados en
+modo `draft`. El siguiente paso no es publicar: corresponde a la revisión
+humana transversal de precisión técnica, ejercicios, enlaces y progresión. Solo
+después podrá decidirse si algún capítulo avanza a `reviewed`.
 
 El checklist detallado vive en
 [`docs/superpowers/plans/2026-07-28-rust-async-course.md`](docs/superpowers/plans/2026-07-28-rust-async-course.md).
