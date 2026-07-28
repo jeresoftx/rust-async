@@ -13,7 +13,7 @@ secuencial con trazabilidad en GitHub.
 El checklist detallado vive en
 [`docs/superpowers/plans/2026-07-28-rust-async-course.md`](docs/superpowers/plans/2026-07-28-rust-async-course.md).
 
-El [GitHub Project](https://github.com/users/jeresoftx/projects/17) contiene
+El [GitHub Project](https://github.com/users/jeresoftx/projects/18) contiene
 los issues accionables y debe mantener su vista principal agrupada por
 `Milestone`.
 
