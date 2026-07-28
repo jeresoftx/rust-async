@@ -6,6 +6,7 @@
 
 #![forbid(unsafe_code)]
 
+pub mod async_channels;
 pub mod cooperative;
 pub mod coordination;
 pub mod educational_future;
