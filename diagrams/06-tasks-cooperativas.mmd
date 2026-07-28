@@ -1,0 +1,5 @@
+flowchart LR
+    A[pop_front] --> B[poll]
+    B -->|Pending| C[push_back]
+    B -->|Ready| D[retirar]
+    C --> A
