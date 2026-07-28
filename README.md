@@ -33,7 +33,7 @@ RFC-0001 §10.
 | 06 | Tasks y concurrencia cooperativa | planned |
 | 07 | Tokio y runtime de producción | planned |
 | 08 | select!, cancelación y timeouts | planned |
-| 09 | Canales y sincronización asíncrona | planned |
+| 09 | Canales y sincronización asíncrona | draft |
 | 10 | Modelo de actores | planned |
 
 Estados posibles: `planned`, `draft`, `implemented`, `tested`, `benchmarked`,

@@ -78,7 +78,7 @@ Para cada capítulo, antes de pasar al siguiente:
 - [ ] Capítulo 09: canales y sincronización asíncrona.
   - [x] #29 Especificar backpressure, cierre y sincronización.
   - [x] #30 Implementar y probar modelos de coordinación.
-  - [ ] #32 Escribir capítulo, diagrama, ejemplos y ejercicios.
+  - [x] #32 Escribir capítulo, diagrama, ejemplos y ejercicios.
 
 ### Milestone 4: Composición avanzada
 

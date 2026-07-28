@@ -6,10 +6,11 @@ por terminar (RFC-0001 §1).
 
 ## Estado Actual
 
-La fundación está completa: identidad, crate mínimo, controles de calidad,
-plan versionado, milestones, issues y Project ya existen. El siguiente paso
-natural es el issue #5, que especifica la transición de espera bloqueante a
-trabajo cooperativo antes de implementar su modelo educativo.
+La fundación y los capítulos 01–08 están implementados en modo `draft`. El
+capítulo 09 cuenta con diseño y modelo de canales; su material educativo se
+mantiene como borrador hasta la revisión humana. El siguiente paso natural es
+el issue #34, que especifica propiedad, mensajes, fallas y alternativas para
+el modelo de actores.
 
 El checklist detallado vive en
 [`docs/superpowers/plans/2026-07-28-rust-async-course.md`](docs/superpowers/plans/2026-07-28-rust-async-course.md).
@@ -30,7 +31,7 @@ los issues accionables y debe mantener su vista principal agrupada por
 | 06 | Tasks y concurrencia cooperativa | planned |
 | 07 | Tokio y runtime de producción | planned |
 | 08 | select!, cancelación y timeouts | planned |
-| 09 | Canales y sincronización asíncrona | planned |
+| 09 | Canales y sincronización asíncrona | draft |
 | 10 | Modelo de actores | planned |
 
 ## Alineación RFC-0001
