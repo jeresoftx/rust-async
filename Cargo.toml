@@ -12,3 +12,7 @@ name = "rust_async"
 path = "src/lib.rs"
 
 [dependencies]
+
+[[example]]
+name = "cooperative_two_tasks"
+path = "examples/soluciones/cooperative_two_tasks.rs"
