@@ -61,6 +61,9 @@ Para cada capítulo, antes de pasar al siguiente:
   - [x] #18 Implementar y probar ejecución de una tarea.
   - [x] #19 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 06: tasks, cola de ejecución y concurrencia cooperativa.
+  - [x] #20 Especificar planificación, equidad y límites.
+  - [ ] #21 Implementar y probar cola de tareas determinista.
+  - [ ] #22 Escribir capítulo, diagrama, ejemplos y ejercicios.
 
 ### Milestone 3: Runtime de producción y coordinación
 
