@@ -1,0 +1,6 @@
+flowchart LR
+    P[Productor] -->|send| Q[Cola acotada]
+    Q -->|recv| C[Consumidor]
+    Q -->|sin capacidad| B[Backpressure]
+    P -->|drop| D[Drenado]
+    D --> X[Cierre observado]
