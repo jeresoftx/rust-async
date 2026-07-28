@@ -12,6 +12,7 @@ name = "rust_async"
 path = "src/lib.rs"
 
 [dependencies]
+tokio = { version = "1.53.1", features = ["rt-multi-thread", "macros", "time", "sync"] }
 
 [[example]]
 name = "cooperative_two_tasks"
