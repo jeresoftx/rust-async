@@ -50,6 +50,9 @@ Para cada capítulo, antes de pasar al siguiente:
   - [x] #12 Implementar y probar un waker educativo determinista.
   - [x] #13 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 04: `Pin` y datos auto-referenciales.
+  - [x] #14 Especificar inmovilidad, auto-referencia y alternativas seguras.
+  - [ ] #15 Implementar y probar modelos seguros sin unsafe.
+  - [ ] #16 Escribir capítulo, diagrama, ejemplos y ejercicios.
 
 ### Milestone 2: Runtime educativo
 
