@@ -76,6 +76,7 @@ Para cada capítulo, antes de pasar al siguiente:
   - [x] #27 Implementar y probar modelos deterministas.
   - [x] #28 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 09: canales y sincronización asíncrona.
+  - [x] #29 Especificar backpressure, cierre y sincronización.
 
 ### Milestone 4: Composición avanzada
 
