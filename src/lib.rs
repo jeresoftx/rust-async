@@ -6,6 +6,8 @@
 
 #![forbid(unsafe_code)]
 
+pub mod cooperative;
+
 pub use std::future::Future;
 pub use std::task::Poll;
 
