@@ -7,6 +7,7 @@
 #![forbid(unsafe_code)]
 
 pub mod cooperative;
+pub mod coordination;
 pub mod educational_future;
 pub mod educational_waker;
 pub mod pinned_state;
