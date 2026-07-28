@@ -7,6 +7,7 @@
 #![forbid(unsafe_code)]
 
 pub mod cooperative;
+pub mod educational_future;
 
 pub use std::future::Future;
 pub use std::task::Poll;
