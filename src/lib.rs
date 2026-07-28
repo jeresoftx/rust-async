@@ -6,6 +6,7 @@
 
 #![forbid(unsafe_code)]
 
+pub mod actor_model;
 pub mod async_channels;
 pub mod cooperative;
 pub mod coordination;

@@ -84,7 +84,7 @@ Para cada capítulo, antes de pasar al siguiente:
 
 - [ ] Capítulo 10: modelo de actores.
   - [x] #34 Especificar propiedad, mensajes, fallas y alternativas.
-  - [ ] #36 Implementar y probar un modelo educativo mínimo.
+  - [x] #36 Implementar y probar un modelo educativo mínimo.
   - [ ] #38 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Completar ruta de lectura, glosario, referencias cruzadas y verificación
   final de coherencia del curso.
