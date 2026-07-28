@@ -46,6 +46,9 @@ Para cada capítulo, antes de pasar al siguiente:
   - [x] #9 Implementar y probar futuros educativos mínimos.
   - [x] #10 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 03: `Waker` y `Context`.
+  - [x] #11 Especificar notificación, progreso y límites.
+  - [ ] #12 Implementar y probar un waker educativo determinista.
+  - [ ] #13 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 04: `Pin` y datos auto-referenciales.
 
 ### Milestone 2: Runtime educativo
