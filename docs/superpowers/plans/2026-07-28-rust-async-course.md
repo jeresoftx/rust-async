@@ -68,6 +68,9 @@ Para cada capítulo, antes de pasar al siguiente:
 ### Milestone 3: Runtime de producción y coordinación
 
 - [ ] Capítulo 07: Tokio y un runtime de producción.
+  - [x] #23 Documentar criterio de integración y autorización de dependencia.
+  - [ ] #24 Implementar ejemplos de runtime de producción.
+  - [ ] #25 Escribir capítulo, comparativas, ejemplos y ejercicios.
 - [ ] Capítulo 08: `select!`, cancelación y timeouts.
 - [ ] Capítulo 09: canales y sincronización asíncrona.
 
