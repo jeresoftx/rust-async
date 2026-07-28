@@ -1,0 +1,5 @@
+stateDiagram-v2
+    [*] --> Pending
+    Pending --> Pending: poll sin progreso
+    Pending --> Ready: poll con resultado
+    Ready --> Ready: resultado terminal

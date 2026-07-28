@@ -43,8 +43,8 @@ Para cada capítulo, antes de pasar al siguiente:
   - [x] #7 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 02: `Future` y `Poll`.
   - [x] #8 Especificar contrato, estados y alternativas.
-  - [ ] #9 Implementar y probar futuros educativos mínimos.
-  - [ ] #10 Escribir capítulo, diagrama, ejemplos y ejercicios.
+  - [x] #9 Implementar y probar futuros educativos mínimos.
+  - [x] #10 Escribir capítulo, diagrama, ejemplos y ejercicios.
 - [ ] Capítulo 03: `Waker` y `Context`.
 - [ ] Capítulo 04: `Pin` y datos auto-referenciales.
 
