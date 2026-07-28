@@ -86,8 +86,8 @@ Para cada capítulo, antes de pasar al siguiente:
   - [x] #34 Especificar propiedad, mensajes, fallas y alternativas.
   - [x] #36 Implementar y probar un modelo educativo mínimo.
   - [x] #38 Escribir capítulo, diagrama, ejemplos y ejercicios.
-- [ ] Completar ruta de lectura, glosario, referencias cruzadas y verificación
-  final de coherencia del curso.
+- [x] #40 Completar ruta de lectura, glosario, referencias cruzadas y
+  verificación final de coherencia del curso.
 
 ## Límites
 

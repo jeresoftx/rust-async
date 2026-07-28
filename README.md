@@ -63,6 +63,8 @@ cargo test --doc
 
 - El checklist de implementación vive en
   [`docs/superpowers/plans/2026-07-28-rust-async-course.md`](docs/superpowers/plans/2026-07-28-rust-async-course.md).
+- La [ruta de lectura](docs/ruta-de-lectura.md) y el
+  [glosario](docs/glosario.md) conectan los conceptos entre capítulos.
 - El avance se coordina en el [GitHub Project](https://github.com/users/jeresoftx/projects/18).
 - El código usa `MIT OR Apache-2.0`; el contenido educativo usa `CC BY-SA 4.0`.
 - Ningún capítulo se marca como `reviewed` o `published` sin revisión humana.
